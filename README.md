@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+
+Display a 5-day weather forecast, where each day shows the high and low temperatures and an image for sunny/rainy/cloudy/snowy.     
+Click on a day and see its hourly forecast.      
+Sign up for a free API key from https://openweathermap.org/     
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
